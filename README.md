@@ -1,9 +1,8 @@
-community-mod is now archived. thank you to everyone to contributed to this masterpiece.
-
 ![GEY](https://github.com/sample-text-here/community-mod/blob/master/logo.png?raw=true)
 
-# The Community Mod
+# The Community Mod 2
 **A Mod by The Community for the Community!**
+**i want to kill you for archiving it zesty**
 
 Milestone as of 26/07/2021: the mod is 1.9GB
 
